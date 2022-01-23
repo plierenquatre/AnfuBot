@@ -1,0 +1,11 @@
+deja ceci nest pas un token grabber scan le ou fais en se que tu veux Sauf changer le code mais jsp si on peux le faire
+ensuite le classement des fichier
+1: Anfu.module,cest les module
+2: Anfu.hide the token,cest pour cacher le token(ne pas le voler)
+3: Anfu,cest pour demarer le script bot ect ect
+Mercie de ne pas le passer a des gens meme si tes paiyer ou jsp quoi
+
+justement si je te le passe cest prck jai le script python qui bug aucun de mes python marche avec aucun des fichier
+
+Créateur:Trxsh
+Date de création bot/codage ect ect: 23/01/2022 11h55mn
